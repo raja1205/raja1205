@@ -8,10 +8,39 @@
 - How to reach me: rajacool84@gmail.com
 
 ## Skills and Technologies:
+Javascript
+HTML5
+CSS3, Tailwind CSS
+XML
+
+# Frontend UI Libray:
+<p align="left"><a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a></p>
+<p align="left"><a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/></a></p>
+
+# Frontend Framework:
+Bootstrap, Material UI
+
+# Backend:
+Node
+Express
+
+# Databases:
+Google Firestore DB
+MongoDB
+MySQL
+PostgreSQL
+
+# API Testing Tool:
+Postman, Thunderclient
+
+# IDE:
+VS Code
+
+# Version control System:
+Git
+
 
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
