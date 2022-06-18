@@ -13,30 +13,30 @@ HTML5
 CSS3, Tailwind CSS
 XML
 
-# Frontend UI Libray:
+## Frontend UI Libray:
 <p align="left"><a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a></p>
 <p align="left"><a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/></a></p>
 
-# Frontend Framework:
+## Frontend Framework:
 Bootstrap, Material UI
 
-# Backend:
+## Backend:
 Node
 Express
 
-# Databases:
+## Databases:
 Google Firestore DB
 MongoDB
 MySQL
 PostgreSQL
 
-# API Testing Tool:
+## API Testing Tool:
 Postman, Thunderclient
 
-# IDE:
+## IDE:
 VS Code
 
-# Version control System:
+## Version control System:
 Git
 
 
