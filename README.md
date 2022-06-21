@@ -12,7 +12,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="55px" /></a> &ensp;
 <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" width="55px" /></a> &ensp;
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/></a> &ensp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="55px" /></a> &ensp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="155px" /></a> &ensp;
 <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" width="55px" /></a> &ensp;
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="180px" /></a>
 </p>
