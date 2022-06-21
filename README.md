@@ -10,11 +10,11 @@
 ## Skills and Technologies:
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="55px" /></a> 
-<a href="https://jquery.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" width="55px" /></a> 
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" width="55px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="55px" /></a> &ensp;
+<a href="https://jquery.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" width="55px" /></a> &ensp;
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/></a> &ensp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"/></a> &ensp;
+<a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" width="55px" /></a> &ensp;
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="180px" /></a>
 </p>
 
@@ -27,13 +27,15 @@
 <p align="left"><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" width="55px" /></a></p>
 
 ## Frontend Framework:
-<p align="left"><a href="https://getbootstrap.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/></a></p>
-Material UI
+<p align="left">
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/></a> &ensp;
+    <a href="https://mui.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" width="55px" /></a>
+</p>
 
 ## Backend:
 <p align="left">
     <a href="https://expressjs.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="express" width="55px" /></a> &ensp;
-    <a href="https://nodejs.org" style="padding-right:8px;" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="55px" /></a></p>
+    <a href="https://nodejs.org" style="padding-right:8px;" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="110px" /></a></p>
 
 ## Databases:
 <p align="left">
@@ -43,14 +45,15 @@ Material UI
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="mysql" /></a> 
 </p>
 
-
 ## API Testing Tool:
-<p align="left"><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" /></a></p>
-Thunderclient
+<p align="left">
+    <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="55px" /></a> &ensp;
+    <a href="https://postman.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYc7Hrt21jvrKVL78u__E_pJJp0moB9wK5C5gI1_s&s=0" alt="Thunderclient" width="55px" /></a>
+</p>
 
 ## IDE:
 <p align="left"> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"/> </a></p>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="55px" /></a></p>
 
 ## Version control System:
 <p align="left"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></a></p>
