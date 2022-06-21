@@ -9,28 +9,31 @@
 
 ## Skills and Technologies:
 <p align="left">
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+<a href="https://jquery.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" width="55px" /></a> 
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"/></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" width="55px" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="60px" /></a>
 </p>
 
 ## Frontend UI Libray:
 <p align="left">
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> 
-    <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="60px" /></a>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="55px" /></a>
 </p>
 
 ## State Management Library:
-<p align="left"><a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/></a></p>
+<p align="left"><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg"/></a></p>
 
 ## Frontend Framework:
 <p align="left"><a href="https://getbootstrap.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/></a></p>
 Material UI
 
 ## Backend:
-<p align="left"><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> <a href="https://nodejs.org" style="padding-right:8px;" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/></a></p>
+<p align="left">
+    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> &ensp;
+    <a href="https://nodejs.org" style="padding-right:8px;" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="55px" /></a></p>
 
 ## Databases:
 <p align="left">
