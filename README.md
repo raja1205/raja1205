@@ -16,7 +16,10 @@
 </p>
 
 ## Frontend UI Libray:
-<p align="left"><a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a></p>
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> 
+    <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"/></a>
+</p>
 
 ## State Management:
 <p align="left"><a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/></a></p>
