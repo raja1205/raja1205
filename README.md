@@ -18,7 +18,7 @@
 ## Frontend UI Libray:
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> 
-    <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40%" /></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40px" /></a>
 </p>
 
 ## State Management:
