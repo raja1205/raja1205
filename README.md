@@ -34,8 +34,9 @@
 
 ## Backend:
 <p align="left">
-    <a href="https://expressjs.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="express" width="55px" /></a> &ensp;
-    <a href="https://nodejs.org" style="padding-right:8px;" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="110px" /></a></p>
+<a href="https://nodejs.org" style="padding-right:8px;" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="120px" /></a> &ensp;
+<a href="https://expressjs.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="express" width="55px" /></a>
+</p>
 
 ## Databases:
 <p align="left">
