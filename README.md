@@ -53,7 +53,7 @@
 </p>
 
 ## Integrated Development Environment (IDE):
-<p align="left"><a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="155px" /></a></p>
+<p align="left"><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="155px" /></a></p>
 
 ## Version control System:
 <p align="left"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></a></p>
