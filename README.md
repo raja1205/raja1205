@@ -48,13 +48,13 @@
 
 ## API Testing Tool:
 <p align="left">
-    <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="160px" /></a> &ensp;
-    <a href="https://postman.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYc7Hrt21jvrKVL78u__E_pJJp0moB9wK5C5gI1_s&s=0" alt="Thunderclient" width="55px" /></a>
+<a href="https://www.thunderclient.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYc7Hrt21jvrKVL78u__E_pJJp0moB9wK5C5gI1_s&s=0" alt="Thunderclient" width="55px" /></a> &ensp;
+<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="155px" /></a>
 </p>
 
 ## IDE:
 <p align="left"> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="160px" /></a></p>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="155px" /></a></p>
 
 ## Version control System:
 <p align="left"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></a></p>
