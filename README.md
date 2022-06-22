@@ -14,12 +14,12 @@
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" width="55px" /></a> &ensp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="55px" /></a> &ensp;
 <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" width="55px" /></a> &ensp;
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="75" /></a> &ensp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="75" /></a> &ensp;
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="70" /></a> &ensp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="70" /></a> &ensp;
 <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" width="55px" /></a> &ensp;
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="180px" /></a> &ensp;
 <a href="https://getbootstrap.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/></a> &ensp;
-<a href="https://mui.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" width="55px" /></a>
+<a href="https://mui.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" width="55px" /></a> &ensp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="180px" /></a>
 </p>
 
 ## Backend (Server side):
