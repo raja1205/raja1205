@@ -5,7 +5,7 @@
 - I’m currently working with Javascript, ReactJS, Redux, Express, Node JS, MongoDB, Google Firebase, etc.
 - I am very much interested in learning and developing new technologies and being a practitioner which excite me a lot.
 - I’m looking to collaborate on: MERN Stack projects
-## How to reach me:
+- How to reach me:
 <a href="https://github.com/raja1205" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
