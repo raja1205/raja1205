@@ -6,7 +6,7 @@
 - I am very much interested in learning and developing new technologies and being a practitioner which excite me a lot.
 - I’m looking to collaborate on: MERN Stack projects
 ## **Reach me:**
-<a href="https://portfolio-fullstack-mern.netlify.app/" target="_blank">
+<a href="https://raja1205.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-00A95C?style=for-the-badge&logo=&logoColor=white" style="margin-bottom: 5px;" /></a>
 <a href="mailto:rajacool84@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%232E87FB.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
